@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:orientation="vertical"
+   >
+	<Button 
+	    style="@style/btn_style"
+	    android:text="@string/btn1"
+	    />
+	<Button 
+	    style="@style/btn_style"
+	    android:text="@string/btn2"
+	    />
+	<Button 
+	    style="@style/btn_style"
+	    android:text="@string/btn3"
+	    />
+	<Button 
+	    style="@style/btn_style"
+	    android:text="@string/btn4"
+	    />
+	<Button 
+	    style="@style/btn_style"
+	    android:text="@string/btn5"
+	    />
+	<Button 
+	    style="@style/btn_style"
+	    android:text="@string/btn6"
+	    />
+
+</LinearLayout>
